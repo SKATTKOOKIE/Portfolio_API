@@ -1,0 +1,4 @@
+# Ignore logs directory and all its contents
+node_modules/
+
+yarn.lock
